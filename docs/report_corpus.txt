@@ -1,0 +1,22 @@
+REPORT CORPUS  (block-words=700, min-words=150, max-words=3000, seed=42)
+
+ebook  autore                        pezzi   parole  metodo / note
+45334  Alessandro Manzoni              294   230131  capitoli + blocchi (pezzi lunghi)
+52484  Carlo Collodi                    60    43396  blocchi (RIPIEGO: solo 0 capitoli riconosciuti)
+59047  Pellegrino Artusi               218   162867  blocchi
+3747   Lodovico Ariosto                383   272120  canti + blocchi (pezzi lunghi)
+1000   Dante Alighieri                 101    97779  canti
+59298  Cesare Lombroso                 286   217066  capitoli + blocchi (pezzi lunghi)
+46599  Michelangelo Buonarroti         236   187046  blocchi
+31002  Giuseppe Garibaldi               88    87413  capitoli + blocchi (pezzi lunghi)
+61885  Edmondo De Amicis               113    98393  blocchi
+47786  Sibilla Aleramo                  81    60272  blocchi
+56958  Luigi Pirandello                 67    51907  blocchi
+28144  F. T. Marinetti                  60    44604  blocchi
+49337  Cesare Cantù                    168   136877  capitoli + blocchi (pezzi lunghi)
+37719  Giuseppe Pitrè                  126    93621  blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+25180  Emilio Salgari                   84   111534  capitoli + blocchi (pezzi lunghi)
+
+TOTALE documenti: 2365   parole: 1895026
+sottoinsieme n100: 100 documenti
+sottoinsieme n1000: 1000 documenti

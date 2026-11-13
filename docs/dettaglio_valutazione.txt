@@ -1,0 +1,285 @@
+################ configurazione: standard ################
+
+Q01  nome commedia   ->   nome:commedia
+    1. R divina-commedia-001.txt
+    2. R divina-commedia-002.txt
+    3. R divina-commedia-003.txt
+    4. R divina-commedia-004.txt
+    5. R divina-commedia-005.txt
+    6. R divina-commedia-006.txt
+    7. R divina-commedia-007.txt
+    8. R divina-commedia-008.txt
+    9. R divina-commedia-009.txt
+   10. R divina-commedia-010.txt
+
+Q02  nome "promessi sposi"   ->   nome:"promessi sposi"
+    1. R promessi-sposi-001.txt
+    2. R promessi-sposi-002.txt
+    3. R promessi-sposi-003.txt
+    4. R promessi-sposi-004.txt
+    5. R promessi-sposi-005.txt
+    6. R promessi-sposi-006.txt
+    7. R promessi-sposi-007.txt
+    8. R promessi-sposi-008.txt
+    9. R promessi-sposi-009.txt
+   10. R promessi-sposi-010.txt
+
+Q03  nome 042   ->   nome:042
+    1. R pinocchio-042.txt
+    2. R umorismo-042.txt
+    3. R divina-commedia-042.txt
+    4. R i-mille-042.txt
+    5. R lettere-michelangelo-042.txt
+    6. R manifesti-futurismo-042.txt
+    7. R orlando-furioso-042.txt
+    8. R promessi-sposi-042.txt
+    9. R una-donna-042.txt
+   10. R uomo-delinquente-042.txt
+
+Q04  contenuto renzo   ->   contenuto:renzo
+    1. R promessi-sposi-034.txt
+    2. R promessi-sposi-116.txt
+    3. R promessi-sposi-060.txt
+    4. R promessi-sposi-275.txt
+    5. R promessi-sposi-031.txt
+    6. R promessi-sposi-115.txt
+    7. R promessi-sposi-270.txt
+    8. R promessi-sposi-059.txt
+    9. R promessi-sposi-280.txt
+   10. R promessi-sposi-061.txt
+
+Q05  contenuto burattino   ->   contenuto:burattino
+    1. R pinocchio-018.txt
+    2. R pinocchio-051.txt
+    3. R pinocchio-060.txt
+    4. R pinocchio-003.txt
+    5. R pinocchio-046.txt
+    6. R pinocchio-017.txt
+    7. R pinocchio-036.txt
+    8. R pinocchio-039.txt
+    9. R pinocchio-044.txt
+   10. R pinocchio-002.txt
+
+Q06  contenuto cavallo   ->   contenuto:cavallo
+    1. R favorita-del-mahdi-051.txt
+    2. R orlando-furioso-238.txt
+    3. R favorita-del-mahdi-080.txt
+    4. R orlando-furioso-247.txt
+    5. R favorita-del-mahdi-054.txt
+    6. R orlando-furioso-203.txt
+    7. R orlando-furioso-206.txt
+    8. R orlando-furioso-219.txt
+    9. R orlando-furioso-229.txt
+   10. R orlando-furioso-283.txt
+
+Q07  contenuto amore   ->   contenuto:amore
+    1. R manifesti-futurismo-045.txt
+    2. R i-mille-068.txt
+    3. R uomo-delinquente-251.txt
+    4. R una-donna-029.txt
+    5. R divina-commedia-094.txt
+    6. R lettere-michelangelo-017.txt
+    7. R lettere-michelangelo-041.txt
+    8. R lettere-michelangelo-202.txt
+    9. R manifesti-futurismo-003.txt
+   10. R orlando-furioso-025.txt
+
+Q08  contenuto citta   ->   contenuto:citta
+
+Q09  contenuto mangiare   ->   contenuto:mangiare
+    1. R promessi-sposi-163.txt
+    2. R ricordi-infanzia-scuola-061.txt
+    3. R promessi-sposi-256.txt
+    4. R pinocchio-014.txt
+    5. R pinocchio-028.txt
+    6. R scienza-in-cucina-005.txt
+    7. R umorismo-042.txt
+    8. R ricordi-infanzia-scuola-068.txt
+    9. R vita-in-palermo-110.txt
+   10. R promessi-sposi-164.txt
+
+Q10  contenuto "nel mezzo del cammin"   ->   contenuto:"nel mezzo del cammin"
+    1. R divina-commedia-002.txt
+
+Q11  contenuto "ramo del lago di como"   ->   contenuto:"ramo del lago di como"
+    1. R promessi-sposi-001.txt
+    2. R promessi-sposi-021.txt
+
+Q12  contenuto +guerra +pace   ->   +contenuto:guerra +contenuto:pace
+    1. R storia-degli-italiani-091.txt
+    2. R i-mille-037.txt
+    3. R storia-degli-italiani-087.txt
+    4. R orlando-furioso-016.txt
+    5. R storia-degli-italiani-117.txt
+    6. R storia-degli-italiani-081.txt
+    7. R storia-degli-italiani-071.txt
+    8. R storia-degli-italiani-104.txt
+    9. R storia-degli-italiani-097.txt
+   10. R storia-degli-italiani-102.txt
+
+Q13  contenuto guerra -pace   ->   contenuto:guerra -contenuto:pace
+    1. R storia-degli-italiani-158.txt
+    2. R uomo-delinquente-117.txt
+    3. R storia-degli-italiani-061.txt
+    4. R uomo-delinquente-104.txt
+    5. R uomo-delinquente-103.txt
+    6. R storia-degli-italiani-112.txt
+    7. R storia-degli-italiani-070.txt
+    8. R ricordi-infanzia-scuola-011.txt
+    9. R manifesti-futurismo-004.txt
+   10. R promessi-sposi-203.txt
+
+Q14  contenuto pinocchio geppetto   ->   contenuto:pinocchio contenuto:geppetto
+    1. R pinocchio-003.txt
+    2. R pinocchio-060.txt
+    3. R pinocchio-008.txt
+    4. R pinocchio-007.txt
+    5. R pinocchio-004.txt
+    6. R pinocchio-056.txt
+    7. R pinocchio-055.txt
+    8. R pinocchio-059.txt
+    9. R pinocchio-012.txt
+   10. R pinocchio-057.txt
+################ configurazione: italiano ################
+
+Q01  nome commedia   ->   nome:commedia
+    1. R divina-commedia-001.txt
+    2. R divina-commedia-002.txt
+    3. R divina-commedia-003.txt
+    4. R divina-commedia-004.txt
+    5. R divina-commedia-005.txt
+    6. R divina-commedia-006.txt
+    7. R divina-commedia-007.txt
+    8. R divina-commedia-008.txt
+    9. R divina-commedia-009.txt
+   10. R divina-commedia-010.txt
+
+Q02  nome "promessi sposi"   ->   nome:"promessi sposi"
+    1. R promessi-sposi-001.txt
+    2. R promessi-sposi-002.txt
+    3. R promessi-sposi-003.txt
+    4. R promessi-sposi-004.txt
+    5. R promessi-sposi-005.txt
+    6. R promessi-sposi-006.txt
+    7. R promessi-sposi-007.txt
+    8. R promessi-sposi-008.txt
+    9. R promessi-sposi-009.txt
+   10. R promessi-sposi-010.txt
+
+Q03  nome 042   ->   nome:042
+    1. R pinocchio-042.txt
+    2. R umorismo-042.txt
+    3. R divina-commedia-042.txt
+    4. R i-mille-042.txt
+    5. R lettere-michelangelo-042.txt
+    6. R manifesti-futurismo-042.txt
+    7. R orlando-furioso-042.txt
+    8. R promessi-sposi-042.txt
+    9. R una-donna-042.txt
+   10. R uomo-delinquente-042.txt
+
+Q04  contenuto renzo   ->   contenuto:renzo
+    1. R promessi-sposi-060.txt
+    2. R promessi-sposi-034.txt
+    3. R promessi-sposi-116.txt
+    4. R promessi-sposi-275.txt
+    5. R promessi-sposi-270.txt
+    6. R promessi-sposi-115.txt
+    7. R promessi-sposi-059.txt
+    8. R promessi-sposi-031.txt
+    9. R promessi-sposi-280.txt
+   10. R promessi-sposi-124.txt
+
+Q05  contenuto burattino   ->   contenuto:burattin
+    1. R pinocchio-060.txt
+    2. R pinocchio-018.txt
+    3. R pinocchio-032.txt
+    4. R pinocchio-051.txt
+    5. R pinocchio-046.txt
+    6. R pinocchio-003.txt
+    7. R pinocchio-010.txt
+    8. R pinocchio-039.txt
+    9. R pinocchio-017.txt
+   10. R pinocchio-036.txt
+
+Q06  contenuto cavallo   ->   contenuto:cavall
+    1. R favorita-del-mahdi-051.txt
+    2. R favorita-del-mahdi-053.txt
+    3. R storia-degli-italiani-090.txt
+    4. R orlando-furioso-238.txt
+    5. R favorita-del-mahdi-080.txt
+    6. R lettere-michelangelo-156.txt
+    7. R favorita-del-mahdi-052.txt
+    8. R favorita-del-mahdi-055.txt
+    9. R favorita-del-mahdi-050.txt
+   10. R orlando-furioso-247.txt
+
+Q07  contenuto amore   ->   contenuto:amore
+    1. R manifesti-futurismo-044.txt
+    2. R una-donna-028.txt
+    3. R uomo-delinquente-127.txt
+    4. R favorita-del-mahdi-027.txt
+    5. R i-mille-068.txt
+    6. R manifesti-futurismo-045.txt
+    7. R lettere-michelangelo-017.txt
+    8. R lettere-michelangelo-055.txt
+    9. R ricordi-infanzia-scuola-038.txt
+   10. R una-donna-014.txt
+
+Q08  contenuto citta   ->   contenuto:citta
+
+Q09  contenuto mangiare   ->   contenuto:mangiar
+    1. R promessi-sposi-163.txt
+    2. R scienza-in-cucina-001.txt
+    3. R ricordi-infanzia-scuola-061.txt
+    4. R i-mille-025.txt
+    5. R promessi-sposi-256.txt
+    6. R pinocchio-014.txt
+    7. R pinocchio-028.txt
+    8. R scienza-in-cucina-005.txt
+    9. R umorismo-042.txt
+   10. R ricordi-infanzia-scuola-068.txt
+
+Q10  contenuto "nel mezzo del cammin"   ->   contenuto:"? mezzo ? cammin"
+    1. R divina-commedia-002.txt
+    2. - divina-commedia-061.txt
+
+Q11  contenuto "ramo del lago di como"   ->   contenuto:"ramo ? lago ? como"
+    1. R promessi-sposi-001.txt
+    2. R promessi-sposi-021.txt
+
+Q12  contenuto +guerra +pace   ->   +contenuto:guerr +contenuto:pace
+    1. R storia-degli-italiani-091.txt
+    2. R i-mille-037.txt
+    3. R storia-degli-italiani-087.txt
+    4. R orlando-furioso-016.txt
+    5. R storia-degli-italiani-117.txt
+    6. R storia-degli-italiani-104.txt
+    7. R storia-degli-italiani-088.txt
+    8. R storia-degli-italiani-081.txt
+    9. R storia-degli-italiani-040.txt
+   10. R storia-degli-italiani-071.txt
+
+Q13  contenuto guerra -pace   ->   contenuto:guerr -contenuto:pace
+    1. R storia-degli-italiani-158.txt
+    2. R uomo-delinquente-104.txt
+    3. R uomo-delinquente-117.txt
+    4. R storia-degli-italiani-131.txt
+    5. R uomo-delinquente-103.txt
+    6. R storia-degli-italiani-061.txt
+    7. R storia-degli-italiani-070.txt
+    8. R uomo-delinquente-239.txt
+    9. R promessi-sposi-203.txt
+   10. R ricordi-infanzia-scuola-011.txt
+
+Q14  contenuto pinocchio geppetto   ->   contenuto:pinocch contenuto:geppett
+    1. R pinocchio-003.txt
+    2. R pinocchio-008.txt
+    3. R pinocchio-060.txt
+    4. R pinocchio-007.txt
+    5. R pinocchio-056.txt
+    6. R pinocchio-004.txt
+    7. R pinocchio-055.txt
+    8. R pinocchio-059.txt
+    9. R pinocchio-012.txt
+   10. R pinocchio-057.txt

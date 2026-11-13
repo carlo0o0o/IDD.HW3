@@ -1,0 +1,23 @@
+# dati scaricati e generati (si rigenerano con scripts/prepara_corpus.py)
+raw/
+corpus/
+
+# indici Lucene
+indice*/
+index*/
+
+# Java / Maven
+target/
+*.class
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.project
+.classpath
+.settings/
+.idea/
+.vscode/
+*.iml

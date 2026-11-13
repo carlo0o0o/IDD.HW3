@@ -1,0 +1,24 @@
+ordine;corpus;analyzer;documenti;secondi;indice_mb;nota
+1;n100;italiano;100;1.651;0.25;primo avvio assoluto (escluso dalla media)
+2;n100;italiano;100;0.606;0.25;
+3;n100;standard;100;1.246;0.34;
+4;n1000;italiano;1000;19.168;1.71;prima lettura dei file di n1000, a freddo (escluso)
+5;n1000;standard;1000;2.184;2.39;
+6;completo;italiano;2365;35.892;3.56;prima lettura dei file di completo, a freddo (escluso)
+7;completo;standard;2365;3.659;5.02;
+8;n100;italiano;100;1.533;0.25;
+9;n100;italiano;100;1.203;0.25;
+10;n100;standard;100;1.157;0.34;
+11;n100;standard;100;1.468;0.34;
+12;n1000;italiano;1000;2.264;1.71;
+13;n1000;italiano;1000;2.341;1.71;
+14;n1000;standard;1000;1.976;2.39;
+15;n1000;standard;1000;2.068;2.39;
+16;completo;italiano;2365;3.011;3.56;
+17;completo;italiano;2365;3.026;3.56;
+18;completo;standard;2365;3.231;5.02;
+19;completo;standard;2365;3.355;5.02;
+20;completo;italiano;2365;3.430;3.56;dopo l'aggiornamento del codice (Fase 5-6)
+21;completo;standard;2365;3.317;5.02;
+22;completo;italiano;2365;23.722;3.55;prima lettura dopo la rigenerazione del corpus, a freddo (escluso)
+23;completo;standard;2365;3.248;5.01;

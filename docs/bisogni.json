@@ -1,0 +1,106 @@
+[
+  {
+    "id": "Q01",
+    "query": "nome commedia",
+    "descrizione": "Tutti i pezzi della Divina Commedia (ricerca sul nome del file)",
+    "cosa_verifica": "tokenizzazione del nome: 'divina-commedia-042.txt' deve essere spezzato in parole",
+    "criterio": {"nome_regex": "^divina-commedia-\\d+\\.txt$"}
+  },
+  {
+    "id": "Q02",
+    "query": "nome \"promessi sposi\"",
+    "descrizione": "Tutti i pezzi dei Promessi sposi (frase sul nome del file)",
+    "cosa_verifica": "phrase query sul campo nome",
+    "criterio": {"nome_regex": "^promessi-sposi-\\d+\\.txt$"}
+  },
+  {
+    "id": "Q03",
+    "query": "nome 042",
+    "descrizione": "Il pezzo numero 42 di ogni libro",
+    "cosa_verifica": "i numeri nel nome restano token cercabili",
+    "criterio": {"nome_regex": "-042\\.txt$"}
+  },
+  {
+    "id": "Q04",
+    "query": "contenuto renzo",
+    "descrizione": "Documenti in cui compare Renzo",
+    "cosa_verifica": "nome proprio senza varianti: caso di controllo, i due analyzer dovrebbero comportarsi in modo simile",
+    "criterio": {"tutti": [["renzo"]]}
+  },
+  {
+    "id": "Q05",
+    "query": "contenuto burattino",
+    "descrizione": "Documenti che parlano di burattini (singolare o plurale)",
+    "cosa_verifica": "singolare/plurale: lo stemming dovrebbe aumentare la recall",
+    "criterio": {"tutti": [["burattino", "burattini"]]}
+  },
+  {
+    "id": "Q06",
+    "query": "contenuto cavallo",
+    "descrizione": "Documenti che parlano di cavalli (qualsiasi genere e numero)",
+    "cosa_verifica": "genere e numero: cavallo/cavalli/cavalla/cavalle",
+    "criterio": {"tutti": [["cavallo", "cavalli", "cavalla", "cavalle"]]}
+  },
+  {
+    "id": "Q07",
+    "query": "contenuto amore",
+    "descrizione": "Documenti che parlano di amore (anche 'l'amore', 'dell'amore', 'amor', 'amori')",
+    "cosa_verifica": "elisione (l'amore) e troncamento poetico (amor): StandardAnalyzer tiene 'l'amore' come un unico token",
+    "criterio": {"tutti": [["amore", "amori", "amor"]]}
+  },
+  {
+    "id": "Q08",
+    "query": "contenuto citta",
+    "descrizione": "Documenti che parlano di citta' (l'utente scrive la parola senza accento)",
+    "cosa_verifica": "accenti: 'citta' digitato senza accento deve trovare 'citta' accentata",
+    "criterio": {"tutti": [["città", "cittá", "citta"]]}
+  },
+  {
+    "id": "Q09",
+    "query": "contenuto mangiare",
+    "descrizione": "Documenti in cui si parla di mangiare (qualsiasi forma del verbo)",
+    "cosa_verifica": "coniugazioni verbali: limite dello stemming 'leggero' italiano",
+    "criterio": {"tutti": [["mangiare", "mangiar", "mangio", "mangi", "mangia", "mangiamo", "mangiate", "mangiano",
+                            "mangiato", "mangiata", "mangiati", "mangiava", "mangiavo", "mangiavi", "mangiavamo",
+                            "mangiavate", "mangiavano", "mangiai", "mangiasti", "mangiò", "mangiammo", "mangiaste",
+                            "mangiarono", "mangerò", "mangerai", "mangerà", "mangeremo", "mangerete", "mangeranno",
+                            "mangerei", "mangeresti", "mangerebbe", "mangeremmo", "mangereste", "mangerebbero",
+                            "mangiassi", "mangiasse", "mangiassimo", "mangiassero", "mangiando", "mangiarlo",
+                            "mangiarla", "mangiarli", "mangiarle", "mangiarne", "mangiarsi"]]}
+  },
+  {
+    "id": "Q10",
+    "query": "contenuto \"nel mezzo del cammin\"",
+    "descrizione": "Il verso iniziale dell'Inferno",
+    "cosa_verifica": "phrase query con stopword (nel, del): ItalianAnalyzer le elimina e lascia dei 'buchi' di posizione",
+    "criterio": {"frase": [["nel"], ["mezzo"], ["del"], ["cammin"]]}
+  },
+  {
+    "id": "Q11",
+    "query": "contenuto \"ramo del lago di como\"",
+    "descrizione": "L'incipit dei Promessi sposi",
+    "cosa_verifica": "phrase query piu' lunga, con stopword",
+    "criterio": {"frase": [["ramo"], ["del"], ["lago"], ["di"], ["como"]]}
+  },
+  {
+    "id": "Q12",
+    "query": "contenuto +guerra +pace",
+    "descrizione": "Documenti che parlano sia di guerra sia di pace",
+    "cosa_verifica": "operatore AND (+) con varianti singolare/plurale",
+    "criterio": {"tutti": [["guerra", "guerre"], ["pace", "paci"]]}
+  },
+  {
+    "id": "Q13",
+    "query": "contenuto guerra -pace",
+    "descrizione": "Documenti che parlano di guerra ma non di pace",
+    "cosa_verifica": "operatore NOT (-)",
+    "criterio": {"tutti": [["guerra", "guerre"]], "nessuno": [["pace", "paci"]]}
+  },
+  {
+    "id": "Q14",
+    "query": "contenuto pinocchio geppetto",
+    "descrizione": "Documenti in cui compare Pinocchio o Geppetto",
+    "cosa_verifica": "piu' termini in OR e ordinamento: chi contiene entrambi dovrebbe stare in alto (P@10)",
+    "criterio": {"almeno_uno": [["pinocchio"], ["geppetto"]]}
+  }
+]

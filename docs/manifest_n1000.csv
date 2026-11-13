@@ -1,0 +1,1001 @@
+file,ebook_id,titolo,autore,genere,indice_pezzo,parole,metodo
+divina-commedia-001.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,1,150,canti
+divina-commedia-002.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,2,1015,canti
+divina-commedia-004.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,4,912,canti
+divina-commedia-006.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,6,936,canti
+divina-commedia-010.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,10,929,canti
+divina-commedia-012.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,12,794,canti
+divina-commedia-016.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,16,870,canti
+divina-commedia-025.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,25,1059,canti
+divina-commedia-027.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,27,1000,canti
+divina-commedia-028.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,28,956,canti
+divina-commedia-029.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,29,968,canti
+divina-commedia-030.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,30,959,canti
+divina-commedia-031.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,31,1020,canti
+divina-commedia-033.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,33,985,canti
+divina-commedia-039.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,39,978,canti
+divina-commedia-042.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,42,954,canti
+divina-commedia-043.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,43,986,canti
+divina-commedia-047.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,47,915,canti
+divina-commedia-050.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,50,996,canti
+divina-commedia-055.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,55,1015,canti
+divina-commedia-059.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,59,1093,canti
+divina-commedia-062.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,62,998,canti
+divina-commedia-067.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,67,1092,canti
+divina-commedia-068.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,68,971,canti
+divina-commedia-071.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,71,909,canti
+divina-commedia-072.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,72,944,canti
+divina-commedia-076.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,76,1015,canti
+divina-commedia-077.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,77,976,canti
+divina-commedia-078.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,78,1035,canti
+divina-commedia-080.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,80,960,canti
+divina-commedia-081.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,81,985,canti
+divina-commedia-083.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,83,1000,canti
+divina-commedia-087.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,87,1002,canti
+divina-commedia-090.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,90,1064,canti
+divina-commedia-091.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,91,926,canti
+divina-commedia-094.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,94,956,canti
+divina-commedia-095.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,95,982,canti
+divina-commedia-096.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,96,924,canti
+divina-commedia-097.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,97,949,canti
+divina-commedia-098.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,98,1005,canti
+divina-commedia-100.txt,1000,La Divina Commedia di Dante: Complete,Dante Alighieri,poema,100,989,canti
+favorita-del-mahdi-002.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,2,714,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-003.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,3,811,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-005.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,5,2958,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-007.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,7,2134,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-011.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,11,703,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-013.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,13,276,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-019.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,19,714,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-022.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,22,707,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-023.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,23,497,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-024.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,24,700,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-028.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,28,351,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-029.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,29,2438,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-030.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,30,2975,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-033.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,33,712,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-035.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,35,2583,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-038.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,38,2120,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-039.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,39,1785,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-041.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,41,1923,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-043.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,43,2778,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-044.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,44,2931,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-048.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,48,742,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-049.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,49,660,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-052.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,52,710,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-054.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,54,343,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-058.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,58,701,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-059.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,59,702,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-060.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,60,722,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-061.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,61,688,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-062.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,62,2488,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-067.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,67,701,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-068.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,68,719,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-069.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,69,952,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-071.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,71,1840,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-072.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,72,2531,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-074.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,74,2986,capitoli + blocchi (pezzi lunghi)
+favorita-del-mahdi-078.txt,25180,La favorita del Mahdi,Emilio Salgari,avventura,78,708,capitoli + blocchi (pezzi lunghi)
+i-mille-001.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,1,1474,capitoli + blocchi (pezzi lunghi)
+i-mille-002.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,2,968,capitoli + blocchi (pezzi lunghi)
+i-mille-004.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,4,607,capitoli + blocchi (pezzi lunghi)
+i-mille-007.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,7,1204,capitoli + blocchi (pezzi lunghi)
+i-mille-009.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,9,994,capitoli + blocchi (pezzi lunghi)
+i-mille-010.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,10,560,capitoli + blocchi (pezzi lunghi)
+i-mille-011.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,11,596,capitoli + blocchi (pezzi lunghi)
+i-mille-013.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,13,1060,capitoli + blocchi (pezzi lunghi)
+i-mille-014.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,14,662,capitoli + blocchi (pezzi lunghi)
+i-mille-016.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,16,582,capitoli + blocchi (pezzi lunghi)
+i-mille-018.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,18,1702,capitoli + blocchi (pezzi lunghi)
+i-mille-019.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,19,1115,capitoli + blocchi (pezzi lunghi)
+i-mille-021.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,21,902,capitoli + blocchi (pezzi lunghi)
+i-mille-023.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,23,464,capitoli + blocchi (pezzi lunghi)
+i-mille-026.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,26,1472,capitoli + blocchi (pezzi lunghi)
+i-mille-027.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,27,1023,capitoli + blocchi (pezzi lunghi)
+i-mille-028.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,28,1115,capitoli + blocchi (pezzi lunghi)
+i-mille-029.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,29,480,capitoli + blocchi (pezzi lunghi)
+i-mille-030.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,30,944,capitoli + blocchi (pezzi lunghi)
+i-mille-031.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,31,564,capitoli + blocchi (pezzi lunghi)
+i-mille-036.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,36,2802,capitoli + blocchi (pezzi lunghi)
+i-mille-039.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,39,856,capitoli + blocchi (pezzi lunghi)
+i-mille-042.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,42,1972,capitoli + blocchi (pezzi lunghi)
+i-mille-045.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,45,1679,capitoli + blocchi (pezzi lunghi)
+i-mille-046.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,46,1273,capitoli + blocchi (pezzi lunghi)
+i-mille-047.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,47,757,capitoli + blocchi (pezzi lunghi)
+i-mille-049.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,49,786,capitoli + blocchi (pezzi lunghi)
+i-mille-050.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,50,817,capitoli + blocchi (pezzi lunghi)
+i-mille-059.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,59,1877,capitoli + blocchi (pezzi lunghi)
+i-mille-060.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,60,1124,capitoli + blocchi (pezzi lunghi)
+i-mille-063.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,63,714,capitoli + blocchi (pezzi lunghi)
+i-mille-067.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,67,392,capitoli + blocchi (pezzi lunghi)
+i-mille-068.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,68,744,capitoli + blocchi (pezzi lunghi)
+i-mille-071.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,71,721,capitoli + blocchi (pezzi lunghi)
+i-mille-075.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,75,1011,capitoli + blocchi (pezzi lunghi)
+i-mille-078.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,78,709,capitoli + blocchi (pezzi lunghi)
+i-mille-079.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,79,1044,capitoli + blocchi (pezzi lunghi)
+i-mille-084.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,84,920,capitoli + blocchi (pezzi lunghi)
+i-mille-085.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,85,960,capitoli + blocchi (pezzi lunghi)
+i-mille-086.txt,31002,I Mille,Giuseppe Garibaldi,memorie storiche,86,703,capitoli + blocchi (pezzi lunghi)
+lettere-michelangelo-001.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,1,723,blocchi
+lettere-michelangelo-003.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,3,833,blocchi
+lettere-michelangelo-004.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,4,802,blocchi
+lettere-michelangelo-005.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,5,831,blocchi
+lettere-michelangelo-007.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,7,1162,blocchi
+lettere-michelangelo-009.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,9,765,blocchi
+lettere-michelangelo-014.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,14,740,blocchi
+lettere-michelangelo-015.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,15,791,blocchi
+lettere-michelangelo-021.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,21,755,blocchi
+lettere-michelangelo-023.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,23,739,blocchi
+lettere-michelangelo-034.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,34,722,blocchi
+lettere-michelangelo-035.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,35,805,blocchi
+lettere-michelangelo-038.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,38,838,blocchi
+lettere-michelangelo-039.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,39,871,blocchi
+lettere-michelangelo-045.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,45,794,blocchi
+lettere-michelangelo-047.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,47,747,blocchi
+lettere-michelangelo-051.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,51,706,blocchi
+lettere-michelangelo-053.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,53,705,blocchi
+lettere-michelangelo-056.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,56,730,blocchi
+lettere-michelangelo-057.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,57,785,blocchi
+lettere-michelangelo-058.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,58,759,blocchi
+lettere-michelangelo-059.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,59,826,blocchi
+lettere-michelangelo-061.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,61,811,blocchi
+lettere-michelangelo-062.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,62,805,blocchi
+lettere-michelangelo-066.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,66,826,blocchi
+lettere-michelangelo-068.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,68,712,blocchi
+lettere-michelangelo-069.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,69,868,blocchi
+lettere-michelangelo-071.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,71,793,blocchi
+lettere-michelangelo-077.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,77,819,blocchi
+lettere-michelangelo-079.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,79,715,blocchi
+lettere-michelangelo-082.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,82,794,blocchi
+lettere-michelangelo-089.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,89,727,blocchi
+lettere-michelangelo-090.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,90,704,blocchi
+lettere-michelangelo-092.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,92,716,blocchi
+lettere-michelangelo-093.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,93,706,blocchi
+lettere-michelangelo-097.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,97,740,blocchi
+lettere-michelangelo-099.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,99,752,blocchi
+lettere-michelangelo-101.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,101,723,blocchi
+lettere-michelangelo-102.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,102,701,blocchi
+lettere-michelangelo-106.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,106,762,blocchi
+lettere-michelangelo-111.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,111,948,blocchi
+lettere-michelangelo-112.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,112,761,blocchi
+lettere-michelangelo-115.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,115,708,blocchi
+lettere-michelangelo-118.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,118,949,blocchi
+lettere-michelangelo-119.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,119,731,blocchi
+lettere-michelangelo-122.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,122,849,blocchi
+lettere-michelangelo-125.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,125,745,blocchi
+lettere-michelangelo-127.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,127,822,blocchi
+lettere-michelangelo-128.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,128,702,blocchi
+lettere-michelangelo-134.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,134,721,blocchi
+lettere-michelangelo-135.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,135,779,blocchi
+lettere-michelangelo-136.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,136,708,blocchi
+lettere-michelangelo-137.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,137,747,blocchi
+lettere-michelangelo-138.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,138,719,blocchi
+lettere-michelangelo-139.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,139,711,blocchi
+lettere-michelangelo-143.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,143,757,blocchi
+lettere-michelangelo-144.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,144,947,blocchi
+lettere-michelangelo-146.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,146,818,blocchi
+lettere-michelangelo-149.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,149,823,blocchi
+lettere-michelangelo-150.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,150,883,blocchi
+lettere-michelangelo-152.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,152,778,blocchi
+lettere-michelangelo-154.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,154,725,blocchi
+lettere-michelangelo-155.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,155,719,blocchi
+lettere-michelangelo-158.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,158,716,blocchi
+lettere-michelangelo-160.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,160,726,blocchi
+lettere-michelangelo-165.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,165,707,blocchi
+lettere-michelangelo-169.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,169,701,blocchi
+lettere-michelangelo-170.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,170,721,blocchi
+lettere-michelangelo-171.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,171,758,blocchi
+lettere-michelangelo-173.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,173,1419,blocchi
+lettere-michelangelo-174.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,174,720,blocchi
+lettere-michelangelo-176.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,176,725,blocchi
+lettere-michelangelo-179.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,179,703,blocchi
+lettere-michelangelo-183.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,183,703,blocchi
+lettere-michelangelo-184.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,184,767,blocchi
+lettere-michelangelo-185.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,185,875,blocchi
+lettere-michelangelo-186.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,186,747,blocchi
+lettere-michelangelo-187.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,187,732,blocchi
+lettere-michelangelo-192.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,192,718,blocchi
+lettere-michelangelo-194.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,194,708,blocchi
+lettere-michelangelo-200.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,200,729,blocchi
+lettere-michelangelo-201.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,201,1109,blocchi
+lettere-michelangelo-204.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,204,700,blocchi
+lettere-michelangelo-206.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,206,711,blocchi
+lettere-michelangelo-210.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,210,702,blocchi
+lettere-michelangelo-212.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,212,872,blocchi
+lettere-michelangelo-214.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,214,824,blocchi
+lettere-michelangelo-216.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,216,1792,blocchi
+lettere-michelangelo-218.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,218,909,blocchi
+lettere-michelangelo-221.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,221,767,blocchi
+lettere-michelangelo-223.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,223,810,blocchi
+lettere-michelangelo-224.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,224,727,blocchi
+lettere-michelangelo-225.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,225,734,blocchi
+lettere-michelangelo-228.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,228,782,blocchi
+lettere-michelangelo-230.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,230,1136,blocchi
+lettere-michelangelo-231.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,231,906,blocchi
+lettere-michelangelo-234.txt,46599,Le lettere di Michelangelo Buonarroti,Michelangelo Buonarroti,epistolario,234,1447,blocchi
+manifesti-futurismo-002.txt,28144,I manifesti del futurismo,F. T. Marinetti,manifesti,2,707,blocchi
+manifesti-futurismo-003.txt,28144,I manifesti del futurismo,F. T. Marinetti,manifesti,3,708,blocchi
+manifesti-futurismo-006.txt,28144,I manifesti del futurismo,F. T. Marinetti,manifesti,6,712,blocchi
+manifesti-futurismo-013.txt,28144,I manifesti del futurismo,F. T. Marinetti,manifesti,13,717,blocchi
+manifesti-futurismo-016.txt,28144,I manifesti del futurismo,F. T. Marinetti,manifesti,16,716,blocchi
+manifesti-futurismo-018.txt,28144,I manifesti del futurismo,F. T. Marinetti,manifesti,18,700,blocchi
+manifesti-futurismo-019.txt,28144,I manifesti del futurismo,F. T. Marinetti,manifesti,19,738,blocchi
+manifesti-futurismo-021.txt,28144,I manifesti del futurismo,F. T. Marinetti,manifesti,21,725,blocchi
+manifesti-futurismo-022.txt,28144,I manifesti del futurismo,F. T. Marinetti,manifesti,22,718,blocchi
+manifesti-futurismo-023.txt,28144,I manifesti del futurismo,F. T. Marinetti,manifesti,23,741,blocchi
+manifesti-futurismo-025.txt,28144,I manifesti del futurismo,F. T. Marinetti,manifesti,25,715,blocchi
+manifesti-futurismo-029.txt,28144,I manifesti del futurismo,F. T. Marinetti,manifesti,29,732,blocchi
+manifesti-futurismo-030.txt,28144,I manifesti del futurismo,F. T. Marinetti,manifesti,30,794,blocchi
+manifesti-futurismo-031.txt,28144,I manifesti del futurismo,F. T. Marinetti,manifesti,31,761,blocchi
+manifesti-futurismo-033.txt,28144,I manifesti del futurismo,F. T. Marinetti,manifesti,33,713,blocchi
+manifesti-futurismo-035.txt,28144,I manifesti del futurismo,F. T. Marinetti,manifesti,35,773,blocchi
+manifesti-futurismo-036.txt,28144,I manifesti del futurismo,F. T. Marinetti,manifesti,36,779,blocchi
+manifesti-futurismo-037.txt,28144,I manifesti del futurismo,F. T. Marinetti,manifesti,37,731,blocchi
+manifesti-futurismo-042.txt,28144,I manifesti del futurismo,F. T. Marinetti,manifesti,42,846,blocchi
+manifesti-futurismo-046.txt,28144,I manifesti del futurismo,F. T. Marinetti,manifesti,46,716,blocchi
+manifesti-futurismo-047.txt,28144,I manifesti del futurismo,F. T. Marinetti,manifesti,47,752,blocchi
+manifesti-futurismo-049.txt,28144,I manifesti del futurismo,F. T. Marinetti,manifesti,49,742,blocchi
+manifesti-futurismo-052.txt,28144,I manifesti del futurismo,F. T. Marinetti,manifesti,52,742,blocchi
+manifesti-futurismo-055.txt,28144,I manifesti del futurismo,F. T. Marinetti,manifesti,55,723,blocchi
+manifesti-futurismo-058.txt,28144,I manifesti del futurismo,F. T. Marinetti,manifesti,58,729,blocchi
+manifesti-futurismo-060.txt,28144,I manifesti del futurismo,F. T. Marinetti,manifesti,60,787,blocchi
+orlando-furioso-002.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,2,712,canti + blocchi (pezzi lunghi)
+orlando-furioso-004.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,4,732,canti + blocchi (pezzi lunghi)
+orlando-furioso-005.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,5,723,canti + blocchi (pezzi lunghi)
+orlando-furioso-006.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,6,907,canti + blocchi (pezzi lunghi)
+orlando-furioso-009.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,9,715,canti + blocchi (pezzi lunghi)
+orlando-furioso-012.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,12,603,canti + blocchi (pezzi lunghi)
+orlando-furioso-013.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,13,743,canti + blocchi (pezzi lunghi)
+orlando-furioso-021.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,21,705,canti + blocchi (pezzi lunghi)
+orlando-furioso-022.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,22,712,canti + blocchi (pezzi lunghi)
+orlando-furioso-023.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,23,713,canti + blocchi (pezzi lunghi)
+orlando-furioso-024.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,24,537,canti + blocchi (pezzi lunghi)
+orlando-furioso-028.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,28,732,canti + blocchi (pezzi lunghi)
+orlando-furioso-030.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,30,716,canti + blocchi (pezzi lunghi)
+orlando-furioso-032.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,32,705,canti + blocchi (pezzi lunghi)
+orlando-furioso-036.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,36,757,canti + blocchi (pezzi lunghi)
+orlando-furioso-038.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,38,739,canti + blocchi (pezzi lunghi)
+orlando-furioso-039.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,39,702,canti + blocchi (pezzi lunghi)
+orlando-furioso-043.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,43,828,canti + blocchi (pezzi lunghi)
+orlando-furioso-049.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,49,731,canti + blocchi (pezzi lunghi)
+orlando-furioso-050.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,50,721,canti + blocchi (pezzi lunghi)
+orlando-furioso-053.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,53,718,canti + blocchi (pezzi lunghi)
+orlando-furioso-057.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,57,702,canti + blocchi (pezzi lunghi)
+orlando-furioso-059.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,59,761,canti + blocchi (pezzi lunghi)
+orlando-furioso-068.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,68,727,canti + blocchi (pezzi lunghi)
+orlando-furioso-069.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,69,753,canti + blocchi (pezzi lunghi)
+orlando-furioso-070.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,70,753,canti + blocchi (pezzi lunghi)
+orlando-furioso-072.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,72,723,canti + blocchi (pezzi lunghi)
+orlando-furioso-074.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,74,285,canti + blocchi (pezzi lunghi)
+orlando-furioso-079.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,79,726,canti + blocchi (pezzi lunghi)
+orlando-furioso-081.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,81,879,canti + blocchi (pezzi lunghi)
+orlando-furioso-085.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,85,712,canti + blocchi (pezzi lunghi)
+orlando-furioso-087.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,87,729,canti + blocchi (pezzi lunghi)
+orlando-furioso-092.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,92,745,canti + blocchi (pezzi lunghi)
+orlando-furioso-096.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,96,711,canti + blocchi (pezzi lunghi)
+orlando-furioso-102.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,102,734,canti + blocchi (pezzi lunghi)
+orlando-furioso-112.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,112,716,canti + blocchi (pezzi lunghi)
+orlando-furioso-113.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,113,580,canti + blocchi (pezzi lunghi)
+orlando-furioso-114.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,114,724,canti + blocchi (pezzi lunghi)
+orlando-furioso-118.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,118,737,canti + blocchi (pezzi lunghi)
+orlando-furioso-119.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,119,725,canti + blocchi (pezzi lunghi)
+orlando-furioso-121.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,121,752,canti + blocchi (pezzi lunghi)
+orlando-furioso-123.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,123,723,canti + blocchi (pezzi lunghi)
+orlando-furioso-124.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,124,276,canti + blocchi (pezzi lunghi)
+orlando-furioso-128.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,128,720,canti + blocchi (pezzi lunghi)
+orlando-furioso-130.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,130,719,canti + blocchi (pezzi lunghi)
+orlando-furioso-131.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,131,722,canti + blocchi (pezzi lunghi)
+orlando-furioso-132.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,132,747,canti + blocchi (pezzi lunghi)
+orlando-furioso-134.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,134,719,canti + blocchi (pezzi lunghi)
+orlando-furioso-137.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,137,726,canti + blocchi (pezzi lunghi)
+orlando-furioso-138.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,138,737,canti + blocchi (pezzi lunghi)
+orlando-furioso-139.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,139,567,canti + blocchi (pezzi lunghi)
+orlando-furioso-142.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,142,727,canti + blocchi (pezzi lunghi)
+orlando-furioso-143.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,143,744,canti + blocchi (pezzi lunghi)
+orlando-furioso-144.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,144,733,canti + blocchi (pezzi lunghi)
+orlando-furioso-146.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,146,709,canti + blocchi (pezzi lunghi)
+orlando-furioso-147.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,147,757,canti + blocchi (pezzi lunghi)
+orlando-furioso-151.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,151,724,canti + blocchi (pezzi lunghi)
+orlando-furioso-152.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,152,744,canti + blocchi (pezzi lunghi)
+orlando-furioso-154.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,154,749,canti + blocchi (pezzi lunghi)
+orlando-furioso-156.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,156,725,canti + blocchi (pezzi lunghi)
+orlando-furioso-157.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,157,705,canti + blocchi (pezzi lunghi)
+orlando-furioso-158.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,158,709,canti + blocchi (pezzi lunghi)
+orlando-furioso-159.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,159,853,canti + blocchi (pezzi lunghi)
+orlando-furioso-162.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,162,729,canti + blocchi (pezzi lunghi)
+orlando-furioso-165.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,165,430,canti + blocchi (pezzi lunghi)
+orlando-furioso-166.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,166,756,canti + blocchi (pezzi lunghi)
+orlando-furioso-167.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,167,728,canti + blocchi (pezzi lunghi)
+orlando-furioso-172.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,172,727,canti + blocchi (pezzi lunghi)
+orlando-furioso-173.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,173,404,canti + blocchi (pezzi lunghi)
+orlando-furioso-177.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,177,725,canti + blocchi (pezzi lunghi)
+orlando-furioso-179.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,179,723,canti + blocchi (pezzi lunghi)
+orlando-furioso-182.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,182,750,canti + blocchi (pezzi lunghi)
+orlando-furioso-186.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,186,717,canti + blocchi (pezzi lunghi)
+orlando-furioso-191.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,191,705,canti + blocchi (pezzi lunghi)
+orlando-furioso-192.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,192,718,canti + blocchi (pezzi lunghi)
+orlando-furioso-193.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,193,545,canti + blocchi (pezzi lunghi)
+orlando-furioso-194.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,194,744,canti + blocchi (pezzi lunghi)
+orlando-furioso-195.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,195,710,canti + blocchi (pezzi lunghi)
+orlando-furioso-198.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,198,719,canti + blocchi (pezzi lunghi)
+orlando-furioso-199.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,199,747,canti + blocchi (pezzi lunghi)
+orlando-furioso-200.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,200,751,canti + blocchi (pezzi lunghi)
+orlando-furioso-202.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,202,711,canti + blocchi (pezzi lunghi)
+orlando-furioso-203.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,203,727,canti + blocchi (pezzi lunghi)
+orlando-furioso-204.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,204,709,canti + blocchi (pezzi lunghi)
+orlando-furioso-211.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,211,731,canti + blocchi (pezzi lunghi)
+orlando-furioso-218.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,218,700,canti + blocchi (pezzi lunghi)
+orlando-furioso-220.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,220,737,canti + blocchi (pezzi lunghi)
+orlando-furioso-221.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,221,706,canti + blocchi (pezzi lunghi)
+orlando-furioso-222.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,222,700,canti + blocchi (pezzi lunghi)
+orlando-furioso-223.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,223,581,canti + blocchi (pezzi lunghi)
+orlando-furioso-228.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,228,700,canti + blocchi (pezzi lunghi)
+orlando-furioso-229.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,229,733,canti + blocchi (pezzi lunghi)
+orlando-furioso-230.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,230,700,canti + blocchi (pezzi lunghi)
+orlando-furioso-231.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,231,728,canti + blocchi (pezzi lunghi)
+orlando-furioso-232.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,232,745,canti + blocchi (pezzi lunghi)
+orlando-furioso-233.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,233,730,canti + blocchi (pezzi lunghi)
+orlando-furioso-236.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,236,746,canti + blocchi (pezzi lunghi)
+orlando-furioso-238.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,238,723,canti + blocchi (pezzi lunghi)
+orlando-furioso-240.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,240,753,canti + blocchi (pezzi lunghi)
+orlando-furioso-246.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,246,718,canti + blocchi (pezzi lunghi)
+orlando-furioso-248.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,248,743,canti + blocchi (pezzi lunghi)
+orlando-furioso-250.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,250,721,canti + blocchi (pezzi lunghi)
+orlando-furioso-251.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,251,745,canti + blocchi (pezzi lunghi)
+orlando-furioso-254.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,254,728,canti + blocchi (pezzi lunghi)
+orlando-furioso-255.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,255,748,canti + blocchi (pezzi lunghi)
+orlando-furioso-258.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,258,712,canti + blocchi (pezzi lunghi)
+orlando-furioso-259.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,259,700,canti + blocchi (pezzi lunghi)
+orlando-furioso-266.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,266,723,canti + blocchi (pezzi lunghi)
+orlando-furioso-267.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,267,724,canti + blocchi (pezzi lunghi)
+orlando-furioso-269.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,269,716,canti + blocchi (pezzi lunghi)
+orlando-furioso-271.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,271,755,canti + blocchi (pezzi lunghi)
+orlando-furioso-274.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,274,728,canti + blocchi (pezzi lunghi)
+orlando-furioso-276.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,276,743,canti + blocchi (pezzi lunghi)
+orlando-furioso-282.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,282,717,canti + blocchi (pezzi lunghi)
+orlando-furioso-283.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,283,707,canti + blocchi (pezzi lunghi)
+orlando-furioso-284.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,284,721,canti + blocchi (pezzi lunghi)
+orlando-furioso-285.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,285,905,canti + blocchi (pezzi lunghi)
+orlando-furioso-286.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,286,711,canti + blocchi (pezzi lunghi)
+orlando-furioso-288.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,288,752,canti + blocchi (pezzi lunghi)
+orlando-furioso-294.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,294,703,canti + blocchi (pezzi lunghi)
+orlando-furioso-295.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,295,715,canti + blocchi (pezzi lunghi)
+orlando-furioso-298.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,298,743,canti + blocchi (pezzi lunghi)
+orlando-furioso-301.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,301,732,canti + blocchi (pezzi lunghi)
+orlando-furioso-303.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,303,700,canti + blocchi (pezzi lunghi)
+orlando-furioso-305.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,305,747,canti + blocchi (pezzi lunghi)
+orlando-furioso-308.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,308,723,canti + blocchi (pezzi lunghi)
+orlando-furioso-314.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,314,732,canti + blocchi (pezzi lunghi)
+orlando-furioso-315.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,315,716,canti + blocchi (pezzi lunghi)
+orlando-furioso-319.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,319,730,canti + blocchi (pezzi lunghi)
+orlando-furioso-323.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,323,702,canti + blocchi (pezzi lunghi)
+orlando-furioso-332.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,332,722,canti + blocchi (pezzi lunghi)
+orlando-furioso-336.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,336,726,canti + blocchi (pezzi lunghi)
+orlando-furioso-338.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,338,737,canti + blocchi (pezzi lunghi)
+orlando-furioso-340.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,340,732,canti + blocchi (pezzi lunghi)
+orlando-furioso-341.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,341,748,canti + blocchi (pezzi lunghi)
+orlando-furioso-344.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,344,717,canti + blocchi (pezzi lunghi)
+orlando-furioso-345.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,345,733,canti + blocchi (pezzi lunghi)
+orlando-furioso-347.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,347,745,canti + blocchi (pezzi lunghi)
+orlando-furioso-348.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,348,746,canti + blocchi (pezzi lunghi)
+orlando-furioso-353.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,353,704,canti + blocchi (pezzi lunghi)
+orlando-furioso-354.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,354,383,canti + blocchi (pezzi lunghi)
+orlando-furioso-355.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,355,740,canti + blocchi (pezzi lunghi)
+orlando-furioso-356.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,356,718,canti + blocchi (pezzi lunghi)
+orlando-furioso-357.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,357,710,canti + blocchi (pezzi lunghi)
+orlando-furioso-359.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,359,751,canti + blocchi (pezzi lunghi)
+orlando-furioso-365.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,365,716,canti + blocchi (pezzi lunghi)
+orlando-furioso-368.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,368,728,canti + blocchi (pezzi lunghi)
+orlando-furioso-369.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,369,735,canti + blocchi (pezzi lunghi)
+orlando-furioso-372.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,372,233,canti + blocchi (pezzi lunghi)
+orlando-furioso-376.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,376,725,canti + blocchi (pezzi lunghi)
+orlando-furioso-377.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,377,715,canti + blocchi (pezzi lunghi)
+orlando-furioso-378.txt,3747,Orlando Furioso,Lodovico Ariosto,poema,378,714,canti + blocchi (pezzi lunghi)
+pinocchio-001.txt,52484,Le avventure di Pinocchio: Storia di un burattino,Carlo Collodi,ragazzi,1,702,blocchi (RIPIEGO: solo 0 capitoli riconosciuti)
+pinocchio-006.txt,52484,Le avventure di Pinocchio: Storia di un burattino,Carlo Collodi,ragazzi,6,712,blocchi (RIPIEGO: solo 0 capitoli riconosciuti)
+pinocchio-013.txt,52484,Le avventure di Pinocchio: Storia di un burattino,Carlo Collodi,ragazzi,13,730,blocchi (RIPIEGO: solo 0 capitoli riconosciuti)
+pinocchio-014.txt,52484,Le avventure di Pinocchio: Storia di un burattino,Carlo Collodi,ragazzi,14,701,blocchi (RIPIEGO: solo 0 capitoli riconosciuti)
+pinocchio-016.txt,52484,Le avventure di Pinocchio: Storia di un burattino,Carlo Collodi,ragazzi,16,703,blocchi (RIPIEGO: solo 0 capitoli riconosciuti)
+pinocchio-021.txt,52484,Le avventure di Pinocchio: Storia di un burattino,Carlo Collodi,ragazzi,21,701,blocchi (RIPIEGO: solo 0 capitoli riconosciuti)
+pinocchio-024.txt,52484,Le avventure di Pinocchio: Storia di un burattino,Carlo Collodi,ragazzi,24,711,blocchi (RIPIEGO: solo 0 capitoli riconosciuti)
+pinocchio-025.txt,52484,Le avventure di Pinocchio: Storia di un burattino,Carlo Collodi,ragazzi,25,736,blocchi (RIPIEGO: solo 0 capitoli riconosciuti)
+pinocchio-026.txt,52484,Le avventure di Pinocchio: Storia di un burattino,Carlo Collodi,ragazzi,26,709,blocchi (RIPIEGO: solo 0 capitoli riconosciuti)
+pinocchio-034.txt,52484,Le avventure di Pinocchio: Storia di un burattino,Carlo Collodi,ragazzi,34,706,blocchi (RIPIEGO: solo 0 capitoli riconosciuti)
+pinocchio-038.txt,52484,Le avventure di Pinocchio: Storia di un burattino,Carlo Collodi,ragazzi,38,720,blocchi (RIPIEGO: solo 0 capitoli riconosciuti)
+pinocchio-040.txt,52484,Le avventure di Pinocchio: Storia di un burattino,Carlo Collodi,ragazzi,40,701,blocchi (RIPIEGO: solo 0 capitoli riconosciuti)
+pinocchio-041.txt,52484,Le avventure di Pinocchio: Storia di un burattino,Carlo Collodi,ragazzi,41,702,blocchi (RIPIEGO: solo 0 capitoli riconosciuti)
+pinocchio-044.txt,52484,Le avventure di Pinocchio: Storia di un burattino,Carlo Collodi,ragazzi,44,726,blocchi (RIPIEGO: solo 0 capitoli riconosciuti)
+pinocchio-049.txt,52484,Le avventure di Pinocchio: Storia di un burattino,Carlo Collodi,ragazzi,49,712,blocchi (RIPIEGO: solo 0 capitoli riconosciuti)
+pinocchio-051.txt,52484,Le avventure di Pinocchio: Storia di un burattino,Carlo Collodi,ragazzi,51,787,blocchi (RIPIEGO: solo 0 capitoli riconosciuti)
+pinocchio-052.txt,52484,Le avventure di Pinocchio: Storia di un burattino,Carlo Collodi,ragazzi,52,750,blocchi (RIPIEGO: solo 0 capitoli riconosciuti)
+pinocchio-053.txt,52484,Le avventure di Pinocchio: Storia di un burattino,Carlo Collodi,ragazzi,53,746,blocchi (RIPIEGO: solo 0 capitoli riconosciuti)
+pinocchio-056.txt,52484,Le avventure di Pinocchio: Storia di un burattino,Carlo Collodi,ragazzi,56,705,blocchi (RIPIEGO: solo 0 capitoli riconosciuti)
+pinocchio-058.txt,52484,Le avventure di Pinocchio: Storia di un burattino,Carlo Collodi,ragazzi,58,702,blocchi (RIPIEGO: solo 0 capitoli riconosciuti)
+pinocchio-059.txt,52484,Le avventure di Pinocchio: Storia di un burattino,Carlo Collodi,ragazzi,59,721,blocchi (RIPIEGO: solo 0 capitoli riconosciuti)
+pinocchio-060.txt,52484,Le avventure di Pinocchio: Storia di un burattino,Carlo Collodi,ragazzi,60,871,blocchi (RIPIEGO: solo 0 capitoli riconosciuti)
+promessi-sposi-002.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,2,755,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-005.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,5,878,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-007.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,7,997,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-008.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,8,706,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-010.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,10,744,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-011.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,11,864,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-016.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,16,745,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-018.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,18,797,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-019.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,19,254,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-023.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,23,744,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-024.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,24,721,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-025.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,25,922,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-028.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,28,676,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-031.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,31,759,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-034.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,34,309,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-035.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,35,705,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-037.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,37,789,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-038.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,38,718,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-044.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,44,798,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-046.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,46,708,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-047.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,47,983,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-050.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,50,748,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-054.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,54,364,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-055.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,55,724,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-058.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,58,701,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-062.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,62,735,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-063.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,63,744,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-065.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,65,776,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-066.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,66,985,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-070.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,70,885,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-071.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,71,1639,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-072.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,72,719,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-073.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,73,966,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-075.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,75,718,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-078.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,78,1201,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-084.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,84,798,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-088.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,88,705,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-089.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,89,709,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-092.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,92,787,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-096.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,96,812,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-097.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,97,949,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-098.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,98,872,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-099.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,99,1580,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-100.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,100,677,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-102.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,102,723,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-104.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,104,755,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-105.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,105,887,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-108.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,108,1318,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-111.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,111,906,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-113.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,113,718,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-114.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,114,715,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-116.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,116,820,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-117.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,117,753,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-118.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,118,865,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-119.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,119,803,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-120.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,120,702,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-121.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,121,1002,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-122.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,122,716,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-127.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,127,712,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-133.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,133,728,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-135.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,135,756,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-136.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,136,846,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-137.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,137,747,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-138.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,138,765,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-139.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,139,740,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-140.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,140,776,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-145.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,145,716,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-148.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,148,797,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-149.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,149,705,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-151.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,151,752,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-153.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,153,789,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-157.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,157,740,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-158.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,158,730,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-160.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,160,877,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-161.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,161,737,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-164.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,164,877,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-169.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,169,1182,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-170.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,170,892,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-171.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,171,520,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-173.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,173,779,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-177.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,177,1236,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-179.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,179,743,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-180.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,180,738,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-182.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,182,746,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-183.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,183,743,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-184.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,184,769,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-189.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,189,567,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-190.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,190,838,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-194.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,194,702,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-196.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,196,761,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-197.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,197,948,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-198.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,198,723,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-201.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,201,764,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-207.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,207,848,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-210.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,210,767,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-212.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,212,798,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-213.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,213,809,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-214.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,214,789,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-216.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,216,823,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-220.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,220,717,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-221.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,221,706,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-224.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,224,980,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-225.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,225,240,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-226.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,226,704,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-227.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,227,726,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-228.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,228,777,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-229.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,229,745,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-231.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,231,345,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-232.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,232,796,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-244.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,244,1085,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-246.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,246,896,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-247.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,247,305,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-251.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,251,759,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-252.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,252,706,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-253.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,253,745,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-257.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,257,704,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-258.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,258,776,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-264.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,264,758,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-265.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,265,929,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-266.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,266,768,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-267.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,267,702,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-268.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,268,760,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-273.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,273,773,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-275.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,275,711,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-276.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,276,852,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-283.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,283,895,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-286.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,286,706,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-288.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,288,855,capitoli + blocchi (pezzi lunghi)
+promessi-sposi-290.txt,45334,I promessi sposi,Alessandro Manzoni,romanzo storico,290,769,capitoli + blocchi (pezzi lunghi)
+ricordi-infanzia-scuola-005.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,5,905,blocchi
+ricordi-infanzia-scuola-006.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,6,740,blocchi
+ricordi-infanzia-scuola-008.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,8,719,blocchi
+ricordi-infanzia-scuola-009.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,9,778,blocchi
+ricordi-infanzia-scuola-012.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,12,1192,blocchi
+ricordi-infanzia-scuola-020.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,20,834,blocchi
+ricordi-infanzia-scuola-022.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,22,809,blocchi
+ricordi-infanzia-scuola-023.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,23,810,blocchi
+ricordi-infanzia-scuola-024.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,24,1184,blocchi
+ricordi-infanzia-scuola-025.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,25,968,blocchi
+ricordi-infanzia-scuola-026.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,26,833,blocchi
+ricordi-infanzia-scuola-027.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,27,1078,blocchi
+ricordi-infanzia-scuola-030.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,30,727,blocchi
+ricordi-infanzia-scuola-031.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,31,1116,blocchi
+ricordi-infanzia-scuola-034.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,34,717,blocchi
+ricordi-infanzia-scuola-035.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,35,1065,blocchi
+ricordi-infanzia-scuola-038.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,38,727,blocchi
+ricordi-infanzia-scuola-039.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,39,760,blocchi
+ricordi-infanzia-scuola-041.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,41,951,blocchi
+ricordi-infanzia-scuola-043.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,43,861,blocchi
+ricordi-infanzia-scuola-045.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,45,1247,blocchi
+ricordi-infanzia-scuola-046.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,46,1511,blocchi
+ricordi-infanzia-scuola-047.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,47,720,blocchi
+ricordi-infanzia-scuola-048.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,48,822,blocchi
+ricordi-infanzia-scuola-049.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,49,1033,blocchi
+ricordi-infanzia-scuola-054.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,54,1105,blocchi
+ricordi-infanzia-scuola-056.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,56,1252,blocchi
+ricordi-infanzia-scuola-058.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,58,889,blocchi
+ricordi-infanzia-scuola-060.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,60,702,blocchi
+ricordi-infanzia-scuola-061.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,61,993,blocchi
+ricordi-infanzia-scuola-077.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,77,744,blocchi
+ricordi-infanzia-scuola-080.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,80,862,blocchi
+ricordi-infanzia-scuola-081.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,81,928,blocchi
+ricordi-infanzia-scuola-082.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,82,875,blocchi
+ricordi-infanzia-scuola-085.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,85,916,blocchi
+ricordi-infanzia-scuola-086.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,86,717,blocchi
+ricordi-infanzia-scuola-087.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,87,849,blocchi
+ricordi-infanzia-scuola-090.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,90,959,blocchi
+ricordi-infanzia-scuola-091.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,91,950,blocchi
+ricordi-infanzia-scuola-094.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,94,748,blocchi
+ricordi-infanzia-scuola-095.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,95,814,blocchi
+ricordi-infanzia-scuola-099.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,99,926,blocchi
+ricordi-infanzia-scuola-101.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,101,923,blocchi
+ricordi-infanzia-scuola-102.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,102,735,blocchi
+ricordi-infanzia-scuola-107.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,107,1028,blocchi
+ricordi-infanzia-scuola-108.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,108,785,blocchi
+ricordi-infanzia-scuola-110.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,110,796,blocchi
+ricordi-infanzia-scuola-111.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,111,746,blocchi
+ricordi-infanzia-scuola-112.txt,61885,Ricordi d'infanzia e di scuola,Edmondo De Amicis,memorie,112,792,blocchi
+scienza-in-cucina-001.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,1,771,blocchi
+scienza-in-cucina-004.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,4,700,blocchi
+scienza-in-cucina-008.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,8,728,blocchi
+scienza-in-cucina-010.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,10,776,blocchi
+scienza-in-cucina-011.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,11,839,blocchi
+scienza-in-cucina-013.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,13,770,blocchi
+scienza-in-cucina-016.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,16,719,blocchi
+scienza-in-cucina-017.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,17,701,blocchi
+scienza-in-cucina-020.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,20,735,blocchi
+scienza-in-cucina-021.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,21,769,blocchi
+scienza-in-cucina-022.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,22,720,blocchi
+scienza-in-cucina-023.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,23,706,blocchi
+scienza-in-cucina-027.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,27,706,blocchi
+scienza-in-cucina-028.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,28,760,blocchi
+scienza-in-cucina-032.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,32,705,blocchi
+scienza-in-cucina-034.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,34,777,blocchi
+scienza-in-cucina-035.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,35,760,blocchi
+scienza-in-cucina-040.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,40,704,blocchi
+scienza-in-cucina-046.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,46,724,blocchi
+scienza-in-cucina-047.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,47,757,blocchi
+scienza-in-cucina-049.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,49,713,blocchi
+scienza-in-cucina-051.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,51,733,blocchi
+scienza-in-cucina-057.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,57,708,blocchi
+scienza-in-cucina-059.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,59,710,blocchi
+scienza-in-cucina-061.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,61,766,blocchi
+scienza-in-cucina-062.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,62,704,blocchi
+scienza-in-cucina-064.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,64,715,blocchi
+scienza-in-cucina-067.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,67,777,blocchi
+scienza-in-cucina-068.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,68,733,blocchi
+scienza-in-cucina-069.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,69,770,blocchi
+scienza-in-cucina-073.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,73,809,blocchi
+scienza-in-cucina-074.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,74,816,blocchi
+scienza-in-cucina-075.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,75,766,blocchi
+scienza-in-cucina-076.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,76,733,blocchi
+scienza-in-cucina-078.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,78,715,blocchi
+scienza-in-cucina-083.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,83,817,blocchi
+scienza-in-cucina-086.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,86,730,blocchi
+scienza-in-cucina-087.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,87,797,blocchi
+scienza-in-cucina-088.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,88,703,blocchi
+scienza-in-cucina-089.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,89,740,blocchi
+scienza-in-cucina-092.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,92,701,blocchi
+scienza-in-cucina-097.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,97,755,blocchi
+scienza-in-cucina-099.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,99,755,blocchi
+scienza-in-cucina-101.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,101,717,blocchi
+scienza-in-cucina-104.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,104,700,blocchi
+scienza-in-cucina-108.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,108,789,blocchi
+scienza-in-cucina-110.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,110,785,blocchi
+scienza-in-cucina-111.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,111,733,blocchi
+scienza-in-cucina-114.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,114,716,blocchi
+scienza-in-cucina-117.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,117,781,blocchi
+scienza-in-cucina-123.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,123,780,blocchi
+scienza-in-cucina-124.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,124,777,blocchi
+scienza-in-cucina-126.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,126,728,blocchi
+scienza-in-cucina-129.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,129,758,blocchi
+scienza-in-cucina-133.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,133,713,blocchi
+scienza-in-cucina-134.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,134,833,blocchi
+scienza-in-cucina-143.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,143,712,blocchi
+scienza-in-cucina-150.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,150,742,blocchi
+scienza-in-cucina-151.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,151,708,blocchi
+scienza-in-cucina-152.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,152,726,blocchi
+scienza-in-cucina-154.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,154,712,blocchi
+scienza-in-cucina-156.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,156,821,blocchi
+scienza-in-cucina-165.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,165,708,blocchi
+scienza-in-cucina-166.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,166,741,blocchi
+scienza-in-cucina-170.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,170,706,blocchi
+scienza-in-cucina-174.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,174,717,blocchi
+scienza-in-cucina-175.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,175,718,blocchi
+scienza-in-cucina-178.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,178,709,blocchi
+scienza-in-cucina-180.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,180,735,blocchi
+scienza-in-cucina-184.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,184,738,blocchi
+scienza-in-cucina-185.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,185,756,blocchi
+scienza-in-cucina-186.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,186,833,blocchi
+scienza-in-cucina-187.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,187,790,blocchi
+scienza-in-cucina-192.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,192,722,blocchi
+scienza-in-cucina-195.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,195,723,blocchi
+scienza-in-cucina-199.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,199,708,blocchi
+scienza-in-cucina-202.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,202,716,blocchi
+scienza-in-cucina-207.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,207,702,blocchi
+scienza-in-cucina-210.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,210,793,blocchi
+scienza-in-cucina-211.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,211,962,blocchi
+scienza-in-cucina-215.txt,59047,La scienza in cucina e l'arte di mangiar bene,Pellegrino Artusi,ricettario,215,918,blocchi
+storia-degli-italiani-006.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,6,1137,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-013.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,13,778,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-014.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,14,915,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-016.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,16,756,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-017.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,17,790,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-021.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,21,897,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-023.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,23,771,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-027.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,27,728,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-029.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,29,749,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-031.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,31,754,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-032.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,32,817,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-033.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,33,839,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-036.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,36,391,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-038.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,38,858,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-039.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,39,791,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-042.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,42,709,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-045.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,45,792,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-046.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,46,716,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-047.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,47,727,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-049.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,49,796,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-051.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,51,721,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-052.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,52,811,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-053.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,53,807,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-054.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,54,728,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-056.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,56,819,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-057.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,57,760,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-059.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,59,701,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-061.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,61,794,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-062.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,62,710,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-063.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,63,739,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-066.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,66,880,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-067.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,67,797,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-070.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,70,707,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-071.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,71,859,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-072.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,72,873,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-074.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,74,895,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-080.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,80,787,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-081.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,81,725,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-082.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,82,716,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-084.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,84,759,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-085.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,85,843,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-089.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,89,740,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-091.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,91,795,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-092.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,92,715,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-095.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,95,847,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-097.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,97,973,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-098.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,98,773,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-099.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,99,774,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-100.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,100,839,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-102.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,102,733,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-103.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,103,828,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-104.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,104,702,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-108.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,108,708,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-109.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,109,907,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-113.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,113,780,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-115.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,115,725,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-118.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,118,706,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-120.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,120,763,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-122.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,122,772,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-123.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,123,727,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-124.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,124,716,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-127.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,127,729,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-128.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,128,814,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-135.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,135,946,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-136.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,136,834,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-137.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,137,750,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-139.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,139,746,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-144.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,144,718,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-146.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,146,709,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-151.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,151,721,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-152.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,152,702,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-153.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,153,755,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-155.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,155,714,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-156.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,156,747,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-157.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,157,1068,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-158.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,158,987,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-161.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,161,783,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-163.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,163,798,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-164.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,164,980,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-165.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,165,722,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-166.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,166,706,capitoli + blocchi (pezzi lunghi)
+storia-degli-italiani-167.txt,49337,"Storia degli Italiani, vol. 01 (di 15)",Cesare Cantù,storia,167,785,capitoli + blocchi (pezzi lunghi)
+umorismo-001.txt,56958,L'umorismo,Luigi Pirandello,saggio,1,732,blocchi
+umorismo-002.txt,56958,L'umorismo,Luigi Pirandello,saggio,2,756,blocchi
+umorismo-006.txt,56958,L'umorismo,Luigi Pirandello,saggio,6,769,blocchi
+umorismo-008.txt,56958,L'umorismo,Luigi Pirandello,saggio,8,741,blocchi
+umorismo-009.txt,56958,L'umorismo,Luigi Pirandello,saggio,9,794,blocchi
+umorismo-015.txt,56958,L'umorismo,Luigi Pirandello,saggio,15,747,blocchi
+umorismo-016.txt,56958,L'umorismo,Luigi Pirandello,saggio,16,788,blocchi
+umorismo-017.txt,56958,L'umorismo,Luigi Pirandello,saggio,17,766,blocchi
+umorismo-023.txt,56958,L'umorismo,Luigi Pirandello,saggio,23,813,blocchi
+umorismo-024.txt,56958,L'umorismo,Luigi Pirandello,saggio,24,788,blocchi
+umorismo-025.txt,56958,L'umorismo,Luigi Pirandello,saggio,25,701,blocchi
+umorismo-027.txt,56958,L'umorismo,Luigi Pirandello,saggio,27,943,blocchi
+umorismo-028.txt,56958,L'umorismo,Luigi Pirandello,saggio,28,734,blocchi
+umorismo-029.txt,56958,L'umorismo,Luigi Pirandello,saggio,29,942,blocchi
+umorismo-030.txt,56958,L'umorismo,Luigi Pirandello,saggio,30,767,blocchi
+umorismo-031.txt,56958,L'umorismo,Luigi Pirandello,saggio,31,770,blocchi
+umorismo-032.txt,56958,L'umorismo,Luigi Pirandello,saggio,32,724,blocchi
+umorismo-037.txt,56958,L'umorismo,Luigi Pirandello,saggio,37,775,blocchi
+umorismo-041.txt,56958,L'umorismo,Luigi Pirandello,saggio,41,803,blocchi
+umorismo-042.txt,56958,L'umorismo,Luigi Pirandello,saggio,42,745,blocchi
+umorismo-043.txt,56958,L'umorismo,Luigi Pirandello,saggio,43,849,blocchi
+umorismo-044.txt,56958,L'umorismo,Luigi Pirandello,saggio,44,774,blocchi
+umorismo-046.txt,56958,L'umorismo,Luigi Pirandello,saggio,46,802,blocchi
+umorismo-050.txt,56958,L'umorismo,Luigi Pirandello,saggio,50,814,blocchi
+umorismo-052.txt,56958,L'umorismo,Luigi Pirandello,saggio,52,771,blocchi
+umorismo-056.txt,56958,L'umorismo,Luigi Pirandello,saggio,56,715,blocchi
+umorismo-057.txt,56958,L'umorismo,Luigi Pirandello,saggio,57,780,blocchi
+umorismo-059.txt,56958,L'umorismo,Luigi Pirandello,saggio,59,916,blocchi
+umorismo-060.txt,56958,L'umorismo,Luigi Pirandello,saggio,60,777,blocchi
+umorismo-061.txt,56958,L'umorismo,Luigi Pirandello,saggio,61,741,blocchi
+umorismo-062.txt,56958,L'umorismo,Luigi Pirandello,saggio,62,767,blocchi
+umorismo-063.txt,56958,L'umorismo,Luigi Pirandello,saggio,63,792,blocchi
+umorismo-065.txt,56958,L'umorismo,Luigi Pirandello,saggio,65,764,blocchi
+umorismo-066.txt,56958,L'umorismo,Luigi Pirandello,saggio,66,767,blocchi
+umorismo-067.txt,56958,L'umorismo,Luigi Pirandello,saggio,67,625,blocchi
+una-donna-010.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,10,719,blocchi
+una-donna-011.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,11,794,blocchi
+una-donna-012.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,12,706,blocchi
+una-donna-015.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,15,717,blocchi
+una-donna-020.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,20,773,blocchi
+una-donna-023.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,23,930,blocchi
+una-donna-026.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,26,738,blocchi
+una-donna-028.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,28,701,blocchi
+una-donna-031.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,31,724,blocchi
+una-donna-033.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,33,807,blocchi
+una-donna-035.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,35,709,blocchi
+una-donna-036.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,36,788,blocchi
+una-donna-040.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,40,722,blocchi
+una-donna-041.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,41,713,blocchi
+una-donna-042.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,42,711,blocchi
+una-donna-043.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,43,731,blocchi
+una-donna-044.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,44,742,blocchi
+una-donna-045.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,45,739,blocchi
+una-donna-046.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,46,715,blocchi
+una-donna-048.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,48,706,blocchi
+una-donna-050.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,50,794,blocchi
+una-donna-051.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,51,743,blocchi
+una-donna-052.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,52,754,blocchi
+una-donna-053.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,53,741,blocchi
+una-donna-054.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,54,722,blocchi
+una-donna-055.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,55,713,blocchi
+una-donna-057.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,57,740,blocchi
+una-donna-060.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,60,760,blocchi
+una-donna-066.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,66,705,blocchi
+una-donna-067.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,67,742,blocchi
+una-donna-069.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,69,706,blocchi
+una-donna-072.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,72,716,blocchi
+una-donna-074.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,74,809,blocchi
+una-donna-077.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,77,702,blocchi
+una-donna-078.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,78,713,blocchi
+una-donna-081.txt,47786,Una Donna,Sibilla Aleramo,romanzo autobiografico,81,248,blocchi
+uomo-delinquente-001.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,1,415,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-002.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,2,737,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-004.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,4,736,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-008.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,8,724,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-010.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,10,772,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-011.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,11,700,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-014.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,14,728,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-016.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,16,730,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-017.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,17,753,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-018.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,18,766,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-020.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,20,788,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-024.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,24,701,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-025.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,25,739,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-027.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,27,827,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-033.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,33,732,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-034.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,34,786,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-035.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,35,711,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-039.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,39,732,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-040.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,40,705,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-044.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,44,719,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-045.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,45,731,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-046.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,46,736,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-052.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,52,981,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-054.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,54,659,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-055.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,55,755,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-058.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,58,733,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-059.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,59,709,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-061.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,61,1180,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-065.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,65,805,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-066.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,66,751,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-068.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,68,2425,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-070.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,70,724,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-077.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,77,751,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-079.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,79,720,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-081.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,81,441,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-088.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,88,732,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-090.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,90,705,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-092.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,92,718,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-094.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,94,423,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-095.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,95,2316,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-096.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,96,745,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-098.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,98,846,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-101.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,101,716,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-102.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,102,788,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-103.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,103,726,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-106.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,106,751,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-107.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,107,327,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-108.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,108,738,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-111.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,111,716,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-114.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,114,739,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-115.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,115,733,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-117.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,117,386,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-119.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,119,776,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-121.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,121,866,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-122.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,122,847,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-127.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,127,774,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-128.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,128,777,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-129.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,129,718,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-133.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,133,708,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-138.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,138,735,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-140.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,140,790,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-142.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,142,762,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-144.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,144,706,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-146.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,146,754,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-148.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,148,600,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-149.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,149,772,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-153.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,153,826,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-154.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,154,723,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-155.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,155,782,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-159.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,159,796,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-162.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,162,708,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-170.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,170,752,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-176.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,176,700,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-177.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,177,746,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-178.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,178,876,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-179.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,179,876,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-183.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,183,702,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-189.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,189,711,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-192.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,192,725,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-197.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,197,733,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-198.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,198,712,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-200.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,200,742,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-201.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,201,755,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-202.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,202,847,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-203.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,203,750,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-210.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,210,713,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-212.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,212,756,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-215.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,215,808,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-222.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,222,804,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-223.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,223,717,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-224.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,224,754,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-227.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,227,762,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-230.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,230,704,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-232.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,232,2774,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-235.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,235,705,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-236.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,236,726,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-239.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,239,726,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-242.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,242,848,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-247.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,247,705,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-252.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,252,729,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-254.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,254,704,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-256.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,256,725,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-257.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,257,772,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-259.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,259,705,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-260.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,260,635,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-263.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,263,163,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-264.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,264,191,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-269.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,269,710,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-270.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,270,754,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-274.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,274,713,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-275.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,275,725,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-280.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,280,708,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-281.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,281,714,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-282.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,282,705,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-283.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,283,741,capitoli + blocchi (pezzi lunghi)
+uomo-delinquente-286.txt,59298,L'uomo delinquente,Cesare Lombroso,scienza,286,937,capitoli + blocchi (pezzi lunghi)
+vita-in-palermo-002.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,2,751,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-003.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,3,703,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-004.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,4,756,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-005.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,5,753,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-017.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,17,739,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-019.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,19,700,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-020.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,20,712,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-025.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,25,735,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-028.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,28,700,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-030.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,30,779,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-031.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,31,718,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-032.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,32,711,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-034.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,34,717,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-037.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,37,828,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-039.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,39,709,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-040.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,40,838,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-041.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,41,710,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-043.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,43,751,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-044.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,44,725,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-046.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,46,700,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-049.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,49,708,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-050.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,50,746,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-056.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,56,726,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-057.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,57,846,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-058.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,58,809,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-061.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,61,717,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-062.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,62,776,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-066.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,66,700,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-067.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,67,739,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-068.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,68,797,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-071.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,71,711,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-073.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,73,704,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-074.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,74,707,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-075.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,75,806,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-077.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,77,790,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-081.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,81,756,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-083.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,83,765,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-085.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,85,832,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-086.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,86,711,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-087.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,87,702,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-088.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,88,767,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-089.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,89,712,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-095.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,95,723,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-096.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,96,760,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-097.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,97,712,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-098.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,98,859,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-100.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,100,710,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-103.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,103,706,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-104.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,104,711,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-110.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,110,787,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-112.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,112,841,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-114.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,114,758,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-115.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,115,703,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-116.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,116,773,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-117.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,117,742,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-118.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,118,744,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-120.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,120,708,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)
+vita-in-palermo-126.txt,37719,"La vita in Palermo cento e più anni fa, vol. 1",Giuseppe Pitrè,costumi/etnografia,126,716,blocchi (RIPIEGO: solo 2 capitoli riconosciuti)

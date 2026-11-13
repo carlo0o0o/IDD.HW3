@@ -1,0 +1,73 @@
+GROUND TRUTH  (corpus: C:\Users\carlo\Documents\carloUniversita\Magistrale\Secondo anno\IngDeiDati\HW3\progetto-lucene\corpus\completo, 2365 documenti)
+Normalizzazione: minuscolo, divisione su caratteri non alfanumerici, accenti mantenuti.
+
+Q01  nome commedia                          rilevanti:   101
+     bisogno : Tutti i pezzi della Divina Commedia (ricerca sul nome del file)
+     verifica: tokenizzazione del nome: 'divina-commedia-042.txt' deve essere spezzato in parole
+     libri   : divina-commedia (101)
+
+Q02  nome "promessi sposi"                  rilevanti:   294
+     bisogno : Tutti i pezzi dei Promessi sposi (frase sul nome del file)
+     verifica: phrase query sul campo nome
+     libri   : promessi-sposi (294)
+
+Q03  nome 042                               rilevanti:    15
+     bisogno : Il pezzo numero 42 di ogni libro
+     verifica: i numeri nel nome restano token cercabili
+     libri   : divina-commedia (1), favorita-del-mahdi (1), i-mille (1), lettere-michelangelo (1), manifesti-futurismo (1)
+
+Q04  contenuto renzo                        rilevanti:   134
+     bisogno : Documenti in cui compare Renzo
+     verifica: nome proprio senza varianti: caso di controllo, i due analyzer dovrebbero comportarsi in modo simile
+     libri   : promessi-sposi (132), umorismo (2)
+
+Q05  contenuto burattino                    rilevanti:    64
+     bisogno : Documenti che parlano di burattini (singolare o plurale)
+     verifica: singolare/plurale: lo stemming dovrebbe aumentare la recall
+     libri   : pinocchio (58), ricordi-infanzia-scuola (4), i-mille (1), una-donna (1)
+
+Q06  contenuto cavallo                      rilevanti:   323
+     bisogno : Documenti che parlano di cavalli (qualsiasi genere e numero)
+     verifica: genere e numero: cavallo/cavalli/cavalla/cavalle
+     libri   : orlando-furioso (138), storia-degli-italiani (36), favorita-del-mahdi (30), promessi-sposi (26), vita-in-palermo (18)
+
+Q07  contenuto amore                        rilevanti:   577
+     bisogno : Documenti che parlano di amore (anche 'l'amore', 'dell'amore', 'amor', 'amori')
+     verifica: elisione (l'amore) e troncamento poetico (amor): StandardAnalyzer tiene 'l'amore' come un unico token
+     libri   : orlando-furioso (160), promessi-sposi (61), divina-commedia (59), lettere-michelangelo (56), una-donna (46)
+
+Q08  contenuto citta                        rilevanti:   584
+     bisogno : Documenti che parlano di citta' (l'utente scrive la parola senza accento)
+     verifica: accenti: 'citta' digitato senza accento deve trovare 'citta' accentata
+     libri   : storia-degli-italiani (122), vita-in-palermo (87), orlando-furioso (80), uomo-delinquente (65), promessi-sposi (59)
+
+Q09  contenuto mangiare                     rilevanti:   258
+     bisogno : Documenti in cui si parla di mangiare (qualsiasi forma del verbo)
+     verifica: coniugazioni verbali: limite dello stemming 'leggero' italiano
+     libri   : scienza-in-cucina (80), promessi-sposi (41), pinocchio (26), i-mille (19), ricordi-infanzia-scuola (19)
+
+Q10  contenuto "nel mezzo del cammin"       rilevanti:     1
+     bisogno : Il verso iniziale dell'Inferno
+     verifica: phrase query con stopword (nel, del): ItalianAnalyzer le elimina e lascia dei 'buchi' di posizione
+     libri   : divina-commedia (1)
+
+Q11  contenuto "ramo del lago di como"      rilevanti:     2
+     bisogno : L'incipit dei Promessi sposi
+     verifica: phrase query piu' lunga, con stopword
+     libri   : promessi-sposi (2)
+
+Q12  contenuto +guerra +pace                rilevanti:    80
+     bisogno : Documenti che parlano sia di guerra sia di pace
+     verifica: operatore AND (+) con varianti singolare/plurale
+     libri   : storia-degli-italiani (38), orlando-furioso (19), promessi-sposi (7), divina-commedia (5), i-mille (4)
+
+Q13  contenuto guerra -pace                 rilevanti:   314
+     bisogno : Documenti che parlano di guerra ma non di pace
+     verifica: operatore NOT (-)
+     libri   : orlando-furioso (80), storia-degli-italiani (59), uomo-delinquente (34), i-mille (27), promessi-sposi (24)
+
+Q14  contenuto pinocchio geppetto           rilevanti:    61
+     bisogno : Documenti in cui compare Pinocchio o Geppetto
+     verifica: piu' termini in OR e ordinamento: chi contiene entrambi dovrebbe stare in alto (P@10)
+     libri   : pinocchio (60), ricordi-infanzia-scuola (1)
+

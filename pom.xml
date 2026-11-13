@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>idd</groupId>
+  <artifactId>lucene-idd</artifactId>
+  <version>1.0</version>
+  <name>Progetto Lucene - Ingegneria dei Dati</name>
+
+  <properties>
+    <!-- Versione di Java con cui compilare (il JDK installato puo' essere piu' recente) -->
+    <maven.compiler.release>21</maven.compiler.release>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <!-- Versione di Lucene: modificala qui se serve -->
+    <lucene.version>9.12.1</lucene.version>
+  </properties>
+
+  <dependencies>
+    <!-- indice, ricerca, ranking, tipi di campo -->
+    <dependency>
+      <groupId>org.apache.lucene</groupId>
+      <artifactId>lucene-core</artifactId>
+      <version>${lucene.version}</version>
+    </dependency>
+    <!-- analyzer (StandardAnalyzer, ItalianAnalyzer, ...) -->
+    <dependency>
+      <groupId>org.apache.lucene</groupId>
+      <artifactId>lucene-analysis-common</artifactId>
+      <version>${lucene.version}</version>
+    </dependency>
+    <!-- QueryParser (servira' nella Fase 5) -->
+    <dependency>
+      <groupId>org.apache.lucene</groupId>
+      <artifactId>lucene-queryparser</artifactId>
+      <version>${lucene.version}</version>
+    </dependency>
+  </dependencies>
+</project>

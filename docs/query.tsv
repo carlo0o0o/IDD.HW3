@@ -1,0 +1,15 @@
+# id	query	descrizione  (generato da scripts/ground_truth.py)
+Q01	nome commedia	Tutti i pezzi della Divina Commedia (ricerca sul nome del file)
+Q02	nome "promessi sposi"	Tutti i pezzi dei Promessi sposi (frase sul nome del file)
+Q03	nome 042	Il pezzo numero 42 di ogni libro
+Q04	contenuto renzo	Documenti in cui compare Renzo
+Q05	contenuto burattino	Documenti che parlano di burattini (singolare o plurale)
+Q06	contenuto cavallo	Documenti che parlano di cavalli (qualsiasi genere e numero)
+Q07	contenuto amore	Documenti che parlano di amore (anche 'l'amore', 'dell'amore', 'amor', 'amori')
+Q08	contenuto citta	Documenti che parlano di citta' (l'utente scrive la parola senza accento)
+Q09	contenuto mangiare	Documenti in cui si parla di mangiare (qualsiasi forma del verbo)
+Q10	contenuto "nel mezzo del cammin"	Il verso iniziale dell'Inferno
+Q11	contenuto "ramo del lago di como"	L'incipit dei Promessi sposi
+Q12	contenuto +guerra +pace	Documenti che parlano sia di guerra sia di pace
+Q13	contenuto guerra -pace	Documenti che parlano di guerra ma non di pace
+Q14	contenuto pinocchio geppetto	Documenti in cui compare Pinocchio o Geppetto
