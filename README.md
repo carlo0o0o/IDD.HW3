@@ -3,8 +3,8 @@
 Indicizzazione e ricerca full-text con Apache Lucene (Java) su un corpus di testi italiani
 ricavati da Project Gutenberg, con valutazione tramite precision e recall.
 
-**Autore:** _nome cognome_ – _matricola_ – _indirizzo email_
-**Repository:** _URL GitHub_
+**Autore:** Carlo Nota – matricola 561636 – car.nota@stud.uniroma3.it
+**Repository:** https://github.com/carlo0o0o/IDD.HW3
 
 ## Struttura
 
